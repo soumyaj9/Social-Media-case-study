@@ -5,6 +5,12 @@ Social Tok was founded by two engineering Students, one  from London and the oth
 1)	They want to learn data best practices from a large corporation. Due to the nature of their business, they have a massive amount of data so they are keen on understanding how the world's biggest companies manage the challenges of big data.  
 2)	They want to know the key insight of data to make data-driven decision
 
+## Process
+# 1. Requirement Gathering 
+we have provided few datastes and a data model the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+## Data Model
+![Untitled](https://github.com/soumyaj9/Social-Media-case-study/assets/65082310/33f46bb9-394f-458f-b230-6c680f68bd8e)
+
 ## Getting Started
 To replicate the analysis or explore the dataset further, follow these steps:
 1. Clone the repository to your local machine.
